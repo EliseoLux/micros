@@ -1,0 +1,10 @@
+1. Solo tiene un modulo y 13 canales
+2. El modulo hace la conversión de entradas analogicas y
+   los canales son las diferentes entradas analogicas
+3. Es el tiempo requerido para la estabilización del 
+   capacitor.
+4. 
+5. Con  justificado a la derecha, en el seguendo 
+   registro estaran los primeros 2 MSB al ser 
+   justificado a la izquierda los ultipo 2 LSB estaran 
+   en el primer registro.
