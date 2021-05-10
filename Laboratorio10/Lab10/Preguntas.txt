@@ -1,0 +1,11 @@
+Preguntas
+
+1. Cuál es la diferencia entre comunicación síncrona y asíncrona?
+	La comunicación síncrona es cuando la frecuencia de los cloccks está sincronizada y
+	la comunicación asíncrona no afecta la frecuencia del uC ni la del módulo de comunicación.
+
+2. Cuál es la definición de Baud Rate?
+	Es la cantida de datos que se pueden transmitir en un segundo. 
+
+3. Qué son los caracteres ASCII?
+	Son caracteres de 2 bytes, foran todo el abecedario y numeros, también funciones especiales.
